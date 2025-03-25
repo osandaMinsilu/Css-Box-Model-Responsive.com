@@ -32,7 +32,7 @@
 .top-box {
     background-color: #aac7ff;
     flex-grow: 1;
-    min-height: 60px; 
+    min-height: 40px; 
     width: 100%;
     border: 1px solid black;
     padding: 2px; 
